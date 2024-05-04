@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: e66cf6f4afba65f45a8126d1d46b2ef6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5df4759e58c554eb3f930c1dd6ea87
+      internalID: -490728580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 943.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7880f291a46a49ab0ad43afd36e43
+      internalID: -765849264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 943.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e13a26f7be903f47abdd7faf93e1fba
+      internalID: 1105630560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 943.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733fe511985da5e4286e02a0e0d8e615
+      internalID: -1405165962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 943.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a098df26c82e9044a6dbde2a6b7377d
+      internalID: 1909541974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 943.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a616fabb7d2f45b6eaf019cc259b2
+      internalID: 434572601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f67e91069583945963ed09745e80ac
+      internalID: -1024839187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 869
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771b485f4ead46488d7b45f013a2c98
+      internalID: 676586610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 869
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919bc3a8c0ab8024c913a692a56c6111
+      internalID: 1378371279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 865.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b725837512be47a44f831b14c54fc
+      internalID: 1606897480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 865.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0237d41c3176a142bf96e3ed618dd9a
+      internalID: 785245853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 865.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd9587d98322f43943f286276ce80b
+      internalID: 1358148073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b69417d3b4b86845a5a7391824f703d
+      internalID: -1874341601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 787.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7210b38bd68394b982ef9a5a0bf6f7
+      internalID: -441148569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 787
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62ba42e7ff10644bcae4e814b086e3
+      internalID: -623894829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 787.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448fabed4a2db740bf2e7980d3d575b
+      internalID: -77344852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 787.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52279b72c12d79d408ff25d9b0f4dfe4
+      internalID: -1247283186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 787.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688954c2eeada714ca1ad7c8928f41b1
+      internalID: 593238453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 712
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ad97186b50b34d834962be36c908a
+      internalID: 2040971684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 709.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32adebd672b80ec4e9494d4fcd2ef92e
+      internalID: 2688186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 709.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019b224242c258448848c51255ccb4d
+      internalID: -1136755563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 709.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dbb256f9f78a04899dc0ef628f809b
+      internalID: 73223797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 709.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddea43036317db44ab84f0b5e711088
+      internalID: 2105122233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 709.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a110b1b6c7a6f44b974b68b0f8c3e6
+      internalID: -1395836521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55672dbf15c0c9d47b8f4b1a7646577e
+      internalID: 1881138220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 631.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b1088ca1a543449a0a36330e8a567
+      internalID: -2121861539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 631.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee26bd302afd549b1c0c251450066a
+      internalID: -1418980607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 631.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336884632ce76db4f9885112f3ae614b
+      internalID: 1731898953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 631.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda5fdc3e2ede849aeba87bf3ae3123
+      internalID: -363453639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 631.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b5978eb0674e448af55cbf8775843
+      internalID: 1518235791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 556
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a171e400790654b4189ab2e82d5ef72f
+      internalID: 1721010386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 553.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3ba6f4a26ab3438c533e931e12d40
+      internalID: 962657271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 553.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4a4835521aaeb4fab6ea952ea7e001
+      internalID: 566224663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 553.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0809c56e0b32b14183ef2f9f9edb6cb
+      internalID: 146023962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 553.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed73b5f98217a4ab9b49e8fca7a549
+      internalID: 950025534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 553.38464
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8a045f46c68c84cb60b204a758695f
+      internalID: -1923854915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53227c527cff8554e87552f4038f4a5f
+      internalID: -393878784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 475.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46657bacb519a44681d716cdbc5e5fd
+      internalID: 2112085388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 475.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e826e96b1a70da46a8b2dec56b15ea9
+      internalID: 1894209181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 475.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb533b1711fd7d408a2f891cf05629f
+      internalID: -2096789324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 475.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab547cbd5fcfa54fb3cc881b885eec7
+      internalID: 4291534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 475.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3cbbd0b9b5b254492ac3dcf066a25f
+      internalID: -1129031208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff723b958d1ee49948135dfed3d1f6
+      internalID: -645641407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 397.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de6724a3c882b43af2f34ca68d70b6
+      internalID: 1213709396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 399
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b4985649f72541b96ff6af29f68c2
+      internalID: -200268666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 401
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d48c3419ad394e8e9612e15cc7836
+      internalID: -1084588925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 397.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8293aa4016d5b74ab6ee44529c7d740
+      internalID: 243160513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 397.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15148d2a93020544b1b87345c3e11e9
+      internalID: -91007703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861e4cb94a776841a5ce578d6b8de00
+      internalID: 26347300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 319.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab4308d3208b8b46a3c1f914939ee41
+      internalID: 1220455517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 319.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00317c286afa84280b334e69ee6fae
+      internalID: 37201801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab898a9b9b32946b06cf7f7ab8039d
+      internalID: -497739155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 319.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee798f0cd662e4b939fb0fe3104c41
+      internalID: 487666061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 319.3846
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f29434ed1a2ab4dabcc42e3c455527
+      internalID: 985721459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a927d2d07bc6428ae2b7fd8172c22
+      internalID: -490504699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 241.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1bd7943de2014aaff18cd45585caa
+      internalID: 1893958070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 241.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b97d992c8622b6458b5a8613b5efc5f
+      internalID: 1719549151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bb1a73fbb18404ba8de47e74c80ada
+      internalID: 569829466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 241.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feef20a44e8d0d46bcb2873b1639444
+      internalID: 1773090331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 241.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691ec51afa885b3469c71e30b8a67310
+      internalID: -1222812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17845717e68ee4ab09550d68f4a56d
+      internalID: 698528552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 168
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f2ff987e78884e98ef5d64c2036f7
+      internalID: -1950430639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 163.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a110dd70a9b409e44a49a21997ad42fd
+      internalID: -116778139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 163.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9472f38168876b4d8efce9a8c82ffa5
+      internalID: -593565668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 163.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186639f421893ee4a8b2fe42ab7e2319
+      internalID: 649695743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 163.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec2d0f9be87fa4d90d3f7b2985a2d5
+      internalID: 652141423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64963d27e906c8945ad8c5d12b380f0e
+      internalID: 2146393795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_67
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70a6f52e188c045aebec4f81afc388
+      internalID: 2011307605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5febc806fd91c48b2a3e18b8903750
+      internalID: -1534455260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 85.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684526819a6ea94aa844043c6d81372
+      internalID: 746690191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756e54ce40cfe8499f07624ddfeba9a
+      internalID: 844698106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 85.38461
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf11c96ad7b9c14438ef5cbfa4dae447
+      internalID: 567533740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.384613
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cda0a76e57d7f4198e536ba17ccab5
+      internalID: 265906379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7.384613
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693da77f5a411ac47867048e236f1dc7
+      internalID: -1131603286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7.384613
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d44d39ab0df14a9db3b11e9725d2a
+      internalID: -304924696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7.384613
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea2bfd37779e642a3e50a7b359bb6a
+      internalID: 1778561315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipBoyIconsDemo_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 7.384613
+        width: 85.333336
+        height: 78.61539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69b8279aa73504389246d97edbabd0
+      internalID: 878163824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PipBoyIconsDemo_0: -490728580
+      PipBoyIconsDemo_1: -765849264
+      PipBoyIconsDemo_10: 785245853
+      PipBoyIconsDemo_11: 1358148073
+      PipBoyIconsDemo_12: -1874341601
+      PipBoyIconsDemo_13: -441148569
+      PipBoyIconsDemo_14: -623894829
+      PipBoyIconsDemo_15: -77344852
+      PipBoyIconsDemo_16: -1247283186
+      PipBoyIconsDemo_17: 593238453
+      PipBoyIconsDemo_18: 2040971684
+      PipBoyIconsDemo_19: 2688186
+      PipBoyIconsDemo_2: 1105630560
+      PipBoyIconsDemo_20: -1136755563
+      PipBoyIconsDemo_21: 73223797
+      PipBoyIconsDemo_22: 2105122233
+      PipBoyIconsDemo_23: -1395836521
+      PipBoyIconsDemo_24: 1881138220
+      PipBoyIconsDemo_25: -2121861539
+      PipBoyIconsDemo_26: -1418980607
+      PipBoyIconsDemo_27: 1731898953
+      PipBoyIconsDemo_28: -363453639
+      PipBoyIconsDemo_29: 1518235791
+      PipBoyIconsDemo_3: -1405165962
+      PipBoyIconsDemo_30: 1721010386
+      PipBoyIconsDemo_31: 962657271
+      PipBoyIconsDemo_32: 566224663
+      PipBoyIconsDemo_33: 146023962
+      PipBoyIconsDemo_34: 950025534
+      PipBoyIconsDemo_35: -1923854915
+      PipBoyIconsDemo_36: -393878784
+      PipBoyIconsDemo_37: 2112085388
+      PipBoyIconsDemo_38: 1894209181
+      PipBoyIconsDemo_39: -2096789324
+      PipBoyIconsDemo_4: 1909541974
+      PipBoyIconsDemo_40: 4291534
+      PipBoyIconsDemo_41: -1129031208
+      PipBoyIconsDemo_42: -645641407
+      PipBoyIconsDemo_43: 1213709396
+      PipBoyIconsDemo_44: -200268666
+      PipBoyIconsDemo_45: -1084588925
+      PipBoyIconsDemo_46: 243160513
+      PipBoyIconsDemo_47: -91007703
+      PipBoyIconsDemo_48: 26347300
+      PipBoyIconsDemo_49: 1220455517
+      PipBoyIconsDemo_5: 434572601
+      PipBoyIconsDemo_50: 37201801
+      PipBoyIconsDemo_51: -497739155
+      PipBoyIconsDemo_52: 487666061
+      PipBoyIconsDemo_53: 985721459
+      PipBoyIconsDemo_54: -490504699
+      PipBoyIconsDemo_55: 1893958070
+      PipBoyIconsDemo_56: 1719549151
+      PipBoyIconsDemo_57: 569829466
+      PipBoyIconsDemo_58: 1773090331
+      PipBoyIconsDemo_59: -1222812
+      PipBoyIconsDemo_6: -1024839187
+      PipBoyIconsDemo_60: 698528552
+      PipBoyIconsDemo_61: -1950430639
+      PipBoyIconsDemo_62: -116778139
+      PipBoyIconsDemo_63: -593565668
+      PipBoyIconsDemo_64: 649695743
+      PipBoyIconsDemo_65: 652141423
+      PipBoyIconsDemo_66: 2146393795
+      PipBoyIconsDemo_67: 2011307605
+      PipBoyIconsDemo_68: -1534455260
+      PipBoyIconsDemo_69: 746690191
+      PipBoyIconsDemo_7: 676586610
+      PipBoyIconsDemo_70: 844698106
+      PipBoyIconsDemo_71: 567533740
+      PipBoyIconsDemo_72: 265906379
+      PipBoyIconsDemo_73: -1131603286
+      PipBoyIconsDemo_74: -304924696
+      PipBoyIconsDemo_75: 1778561315
+      PipBoyIconsDemo_76: 878163824
+      PipBoyIconsDemo_8: 1378371279
+      PipBoyIconsDemo_9: 1606897480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
